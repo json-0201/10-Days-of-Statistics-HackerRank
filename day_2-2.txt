@@ -1,0 +1,6 @@
+In a single toss of 2 fair (evenly-weighted) six-sided dice,
+find the probability that the values rolled by each die will be different and the two dice have a sum of 6.
+
+cases => (1,5),(2,4),(4,2),(5,1) -> 4 out of 36 possible outcomes
+
+answer: 4/36 = 1/9
