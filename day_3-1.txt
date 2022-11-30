@@ -1,0 +1,4 @@
+Suppose a family has 2 children, one of which is a boy. What is the probability that both children are boys?
+
+SOLUTION:
+P(BB|B) = P(B|BB) * P(B) / P(BB) = 1 * 1/4 / 3/4 = 1/3
