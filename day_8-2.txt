@@ -1,0 +1,14 @@
+y = -2 + (-3/4) * x
+x = -7/4 + (-3/4) * y
+
+b1 = -3/4, b2 = -3/4
+
+p = pearson correlation coefficient
+
+p = b1 (x_std / y_std)
+p = b2 (y_std / x_std)
+
+p^2 = b1 * b2
+p^2 = (-3/4) * (-3/4)
+p^2 = 9/16
+p = -3/4 (negative correlation)
